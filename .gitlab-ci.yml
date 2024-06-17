@@ -3,5 +3,4 @@ demo_job_1
      - ci
     script:
       - echo hello earth
-      122333333
       7378
